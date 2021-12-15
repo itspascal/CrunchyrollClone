@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(63, 60, 58);
+}
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.card-title {
+    justify-content: center;
+}
+
+.card-body {
+    justify-content: center;
+    text-align: center;
+    width:750px;
+}
+
+#carouselCont {
+    width: 750px;
+
+}
+
+#carouselCont img {
+    text-align: center;
+}
+
+.carousel-item {
+    width: 750px;
+}
+
+.carousel-item img {
+    width: 100%;
+    margin: auto;
+}
+
+.carousel-item > div {
+    display: flex;
+    flex-direction: flex;
+    justify-content: center;
+}
+
+.carousel-inner button {
+    justify-content: center;
+    display: flex;
+}
+
+.card-img {
+    width: 50%;
+}
+
+.sub-img {
+    justify-content: center;
+}
+
+.sub-img .card-text {
+    font-size: 25px;
+}
+
+.sub-img .card-title {
+    font-size: 30px;
+    background-color: rgb(255, 160, 35);
+}
+
+
+#carouselSubComponents p {
+    color: white;
+    background-color: rgb(48, 47, 46);
+}
+
+.popH1 {
+    text-align: center;
+    color: white;
+    font-size: 4em;
+}
