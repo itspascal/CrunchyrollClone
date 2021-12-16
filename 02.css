@@ -1,5 +1,6 @@
 body {
     background-color: rgb(63, 60, 58);
+    background-color: black;
 }
 .card {
     margin: 0 auto;
@@ -74,4 +75,17 @@ body {
     text-align: center;
     color: white;
     font-size: 4em;
+}
+
+.list-group-item {
+    color: white;
+    font-size: 20px;
+    background-color: rgb(48, 47, 46);
+}
+
+.ul-h1 {
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 160, 35);
+
 }
